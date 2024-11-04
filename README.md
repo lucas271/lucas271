@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi My name is Lucas 
 =============================================================================================================================
 
-I'm a developer with work experience in REACT, NEXT, TAILWIND, GIT, DOCKER, JIRA, FIGMA, ETC.
+I'm a developer with work experience in REACT, NEXT, TAILWIND, GIT, DOCKER, JIRA, LINUX, FIGMA, ETC.
 --------------------------------------------------------
 
 * 🌍  I'm based in Rio de janeiro, Brazil.
