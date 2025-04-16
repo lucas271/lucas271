@@ -7,7 +7,7 @@ I'm a developer with work experience in REACT, NEXT, TAILWIND, GIT, DOCKER, JIRA
 * 🌍  I'm based in Rio de janeiro, Brazil.
 * 🖥️  See my portfolio at [Portfolio](http://portfolio-new-pi-one.vercel.app/)
 * ✉️   You can contact me at [lucasdev2124@gmail.com](mailto:lucasdev2124@gmail.com)
-* 🧠  I'm learning NEST, DOCKER, STRAPI and LERNA.
+* 🧠  I'm learning NEST, DOCKER AND JAVA.
 
 ### Skills
 
